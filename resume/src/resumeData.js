@@ -25,6 +25,31 @@ let resumeData = {
           "Achievements": "Certificate"
         },
     ],
+    "work":[
+      {
+        "CompanyName": "Coming soon!!"
+      }
+    ],
+
+    "skills": [
+      {
+        "skillname": "HTML5"
+      },
+      {
+        "skillname": "CSS"
+      },
+      {
+        "skillname": "Reactjs"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Vibe Checkerator",
+        "description": "Check your Vibe!",
+        "imgurl": "images/vibe-main.jpg",
+        "imglink":"https://mpkahn.github.io/thevibe/"
+      },
+    ]
 }
   
   export default resumeData
